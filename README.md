@@ -4,4 +4,4 @@
 # 训练GPT写的，备份
 # 运行
 - Windows
-  'python srt-subtitle-optimization.py'
+> 'python srt-subtitle-optimization.py'
